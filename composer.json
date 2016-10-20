@@ -1,0 +1,10 @@
+{
+    "name": "yankee/sf-ssl-requirement-extra-plugin",
+    "type": "symfony1-plugin",
+    "description": "symfony 1.x plugin for SSL.",
+    "keywords": ["symfony", "ssl"],
+    "require": {
+        "composer/installers": "*",	
+    }
+}
+
