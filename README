@@ -17,6 +17,9 @@ The plugin also adds 3 new `sfAction` methods (via the mixins design pattern): `
     or via svn checkout
 
         $ cd plugins; svn co http://svn.symfony-project.com/plugins/sfSslRequirementExtraPlugin/trunk sfSslRequirementExtraPlugin
+		
+	or via composer
+        $ composer require yankee/sf-ssl-requirement-extra-plugin	
 
   * Enable sfSslRequirementExtraPlugin (if not automatically enabled) @ config/ProjectConfiguration.class.php
 
